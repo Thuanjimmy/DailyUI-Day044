@@ -1,0 +1,109 @@
+body {
+  background-color: #30475e;
+  color: #ffffff;
+  line-height: 1;
+}
+
+h5 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h6 {
+  margin-top: 5px;
+}
+hr {
+  margin: 5px auto;
+  width: 85%;
+  border-top: 1px solid grey;
+  position: relative;
+}
+.box {
+  width: 320px;
+  height: 600px;
+  background-color: #222831;
+  border-radius: 50px;
+  border: white 10px solid;
+  margin: 75px auto;
+  padding: 10px 15px;
+}
+
+.notch {
+  background-color: #ffffff;
+  width: 160px;
+  height: 25px;
+  border-radius: 75px;
+  position: absolute;
+  top: 75px;
+  right: 640px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.line {
+  display: flex;
+  margin-bottom: 10px;
+}
+.grey {
+  color: grey;
+}
+.edit {
+  position: relative;
+  top: 5px;
+}
+.name {
+  color: white;
+  background-color: grey;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  padding: 15px 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.icon {
+  position: relative;
+  left: 85px;
+  top: 15px;
+}
+.icon1 {
+  position: relative;
+  left: 35px;
+  top: 15px;
+}
+.icon2 {
+  position: relative;
+  left: 100px;
+  top: 15px;
+}
+.icon3 {
+  position: relative;
+  left: 80px;
+  top: 15px;
+}
+.icon4 {
+  position: relative;
+  left: 115px;
+  top: 15px;
+}
+.footer {
+  margin-top: 50px;
+  font-size: 0.5rem;
+  text-align: center;
+}
+.flex {
+  padding: 10px;
+}
